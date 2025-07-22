@@ -16,8 +16,8 @@
     {
         "device_id": "62390daf17ce5d09",
         "username": "user2",
-        "password": "12345",
-        "expirydate": "25-08-2025",
-        "Allowoffline": false
+        "password": "12345678",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
     }
 ]
